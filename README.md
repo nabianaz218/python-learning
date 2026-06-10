@@ -14,8 +14,7 @@ This project is dynamic! As I learn new concepts, I expand this list and create 
 - [x] `04_functions_and_modules` — Custom `def` structures, scope, and importing standard/external utility modules (`random`, `math`).
 - [x] `05_file_handling` — Reading, writing, and appending external data files safely using context managers (`with`).
 - [x] `06_object_oriented_programming` — Structural architecture using Classes, Instances, Initialization, Inheritance, and Polymorphism.
-- [ ] *Next up: Exception Handling (`try/except` blocks)*
-- [ ] *Next up: Working with APIs & JSON data*
+
 
 ---
 
